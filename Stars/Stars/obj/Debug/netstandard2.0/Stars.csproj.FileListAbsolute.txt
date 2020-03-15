@@ -1,0 +1,13 @@
+C:\Users\M. Casas\source\repos\Stars\Stars\Stars\obj\Debug\netstandard2.0\Stars.csprojAssemblyReference.cache
+C:\Users\M. Casas\source\repos\Stars\Stars\Stars\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\M. Casas\source\repos\Stars\Stars\Stars\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\M. Casas\source\repos\Stars\Stars\Stars\obj\Debug\netstandard2.0\Stars.AssemblyInfoInputs.cache
+C:\Users\M. Casas\source\repos\Stars\Stars\Stars\obj\Debug\netstandard2.0\Stars.AssemblyInfo.cs
+C:\Users\M. Casas\source\repos\Stars\Stars\Stars\obj\Debug\netstandard2.0\Stars.dll
+C:\Users\M. Casas\source\repos\Stars\Stars\Stars\obj\Debug\netstandard2.0\ref\Stars.dll
+C:\Users\M. Casas\source\repos\Stars\Stars\Stars\obj\Debug\netstandard2.0\Stars.pdb
+C:\Users\M. Casas\source\repos\Stars\Stars\Stars\bin\Debug\netstandard2.0\Stars.deps.json
+C:\Users\M. Casas\source\repos\Stars\Stars\Stars\bin\Debug\netstandard2.0\Stars.dll
+C:\Users\M. Casas\source\repos\Stars\Stars\Stars\bin\Debug\netstandard2.0\ref\Stars.dll
+C:\Users\M. Casas\source\repos\Stars\Stars\Stars\bin\Debug\netstandard2.0\Stars.pdb
+C:\Users\M. Casas\source\repos\Stars\Stars\Stars\obj\Debug\netstandard2.0\XamlC.stamp
